@@ -1,0 +1,15 @@
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\bin\Debug\net6.0\Evidencia2.exe
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\bin\Debug\net6.0\Evidencia2.deps.json
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\bin\Debug\net6.0\Evidencia2.runtimeconfig.json
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\bin\Debug\net6.0\Evidencia2.dll
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\bin\Debug\net6.0\Evidencia2.pdb
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.AssemblyInfo.cs
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.dll
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\refint\Evidencia2.dll
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.pdb
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\Evidencia2.genruntimeconfig.cache
+C:\Users\user\Documents\LTI\Semestre 6\Programación de Aplicaciones Locales\Evidencia2\obj\Debug\net6.0\ref\Evidencia2.dll
